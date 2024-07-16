@@ -1,1 +1,1 @@
-New change that may cause conflict.
+New change that may cause conflict. This change is from ram.
